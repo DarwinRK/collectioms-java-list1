@@ -1,2 +1,2 @@
 # collectioms-java-list1
-Exercícios de operações de collection envolvendo lista.
+Exercícios de operações de collections envolvendo lista.
